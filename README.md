@@ -1,4 +1,4 @@
-# nintendont-file-organizer
+# nintendont-to-redump
 Bash script for reorganizing ISOs that were set up as a Nintendont games directory.
 
 ## How to use
